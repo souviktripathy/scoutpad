@@ -1,0 +1,287 @@
+@media only screen and (min-width:240px) and (max-width:320px){
+    #banner .hero-container .computer-image img {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    #acumatica .acumatica-about .acco-img img {
+        width: 100%;
+        display: block;
+        margin: 10px auto;
+      }
+      .banner-container-section2 img.img1 {
+        width: 100%;
+        background-size: cover;
+        position: absolute;
+        display: none;
+    }
+    .banner-container-section2 {
+        padding: 0px 0!important;
+        overflow: hidden;
+        background: #d0e3f4;
+    }
+    button.Schedule-btn {
+        background: #fff4c3;
+        padding: 10px 25px 10px 25px;
+        box-shadow: 0px 0px 10px 1px #dddddd;
+        font-size: 18px;
+        font-weight: 500;
+        margin-bottom: 30px;
+    }
+    #acumatica {
+        margin-top: 0px;
+    }
+    #benifits {
+        background-image: url(../../assets/img/homepage/background-1a.jpg);
+        background-size: cover;
+        padding: 4px 0px 100px 0px;
+        background-repeat: round;
+    }
+    .heading-text h1 {
+        font-weight: 600;
+        text-transform: capitalize;
+        font-size: 30px;
+    }
+    #testimonial {
+        background-image: url(../../assets/img/homepage/background-1tstimonial.jpg);
+        background-size: cover;
+        padding: 100px 0px 84px 0px;
+    }
+}
+
+@media only screen and (min-width:321px) and (max-width:480px){
+    #banner .hero-container .computer-image img {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    #acumatica .acumatica-about .acco-img img {
+        width: 100%;
+        display: block;
+        margin: 10px auto;
+      }
+      .banner-container-section2 img.img1 {
+        width: 100%;
+        background-size: cover;
+        position: absolute;
+        display: none;
+    }
+    .banner-container-section2 {
+        padding: 0px 0!important;
+        overflow: hidden;
+        background: #d0e3f4;
+    }
+    button.Schedule-btn {
+        background: #fff4c3;
+        padding: 10px 25px 10px 25px;
+        box-shadow: 0px 0px 10px 1px #dddddd;
+        font-size: 18px;
+        font-weight: 500;
+        margin-bottom: 30px;
+    }
+    #acumatica {
+        margin-top: 0px;
+    }
+    #benifits {
+        background-image: url(../../assets/img/homepage/background-1a.jpg);
+        background-size: cover;
+        padding: 4px 0px 100px 0px;
+        background-repeat: round;
+    }
+    .heading-text h1 {
+        font-weight: 600;
+        text-transform: capitalize;
+        font-size: 30px;
+    }
+    #testimonial {
+        background-image: url(../../assets/img/homepage/background-1tstimonial.jpg);
+        background-size: cover;
+        padding: 100px 0px 84px 0px;
+    }
+}
+
+@media only screen and (min-width:481px) and (max-width:600px){
+    #banner .hero-container .computer-image img {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    #acumatica .acumatica-about .acco-img img {
+        width: 100%;
+        display: block;
+        margin: 10px auto;
+      }
+      .banner-container-section2 img.img1 {
+        width: 100%;
+        background-size: cover;
+        position: absolute;
+        display: none;
+    }
+    .banner-container-section2 {
+        padding: 0px 0!important;
+        overflow: hidden;
+        background: #d0e3f4;
+    }
+    button.Schedule-btn {
+        background: #fff4c3;
+        padding: 10px 25px 10px 25px;
+        box-shadow: 0px 0px 10px 1px #dddddd;
+        font-size: 18px;
+        font-weight: 500;
+        margin-bottom: 30px;
+    }
+    #acumatica {
+        margin-top: 0px;
+    }
+    #benifits {
+        background-image: url(../../assets/img/homepage/background-1a.jpg);
+        background-size: cover;
+        padding: 4px 0px 100px 0px;
+        background-repeat: round;
+    }
+    .heading-text h1 {
+        font-weight: 600;
+        text-transform: capitalize;
+        font-size: 30px;
+    }
+    #testimonial {
+        background-image: url(../../assets/img/homepage/background-1tstimonial.jpg);
+        background-size: cover;
+        padding: 100px 0px 84px 0px;
+    }
+}
+
+@media only screen and (min-width:601px) and (max-width:700px){
+    #banner .hero-container .computer-image img {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    #acumatica .acumatica-about .acco-img img {
+        width: 100%;
+        display: block;
+        margin: 10px auto;
+      }
+      .banner-container-section2 img.img1 {
+        width: 100%;
+        background-size: cover;
+        position: absolute;
+        display: none;
+    }
+    .banner-container-section2 {
+        padding: 0px 0!important;
+        overflow: hidden;
+        background: #d0e3f4;
+    }
+    button.Schedule-btn {
+        background: #fff4c3;
+        padding: 10px 25px 10px 25px;
+        box-shadow: 0px 0px 10px 1px #dddddd;
+        font-size: 18px;
+        font-weight: 500;
+        margin-bottom: 30px;
+    }
+    #acumatica {
+        margin-top: 0px;
+    }
+    #benifits {
+        background-image: url(../../assets/img/homepage/background-1a.jpg);
+        background-size: cover;
+        padding: 4px 0px 100px 0px;
+        background-repeat: round;
+    }
+    .heading-text h1 {
+        font-weight: 600;
+        text-transform: capitalize;
+        font-size: 30px;
+    }
+    #testimonial {
+        background-image: url(../../assets/img/homepage/background-1tstimonial.jpg);
+        background-size: cover;
+        padding: 100px 0px 84px 0px;
+    }
+}
+
+@media only screen and (min-width:701px) and (max-width:767px){
+    #banner .hero-container .computer-image img {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    #acumatica .acumatica-about .acco-img img {
+        width: 100%;
+        display: block;
+        margin: 10px auto;
+      }
+      .banner-container-section2 img.img1 {
+        width: 100%;
+        background-size: cover;
+        position: absolute;
+        display: none;
+    }
+    .banner-container-section2 {
+        padding: 0px 0!important;
+        overflow: hidden;
+        background: #d0e3f4;
+    }
+    button.Schedule-btn {
+        background: #fff4c3;
+        padding: 10px 25px 10px 25px;
+        box-shadow: 0px 0px 10px 1px #dddddd;
+        font-size: 18px;
+        font-weight: 500;
+        margin-bottom: 30px;
+    }
+    #acumatica {
+        margin-top: 0px;
+    }
+    #benifits {
+        background-image: url(../../assets/img/homepage/background-1a.jpg);
+        background-size: cover;
+        padding: 4px 0px 100px 0px;
+        background-repeat: round;
+    }
+    .heading-text h1 {
+        font-weight: 600;
+        text-transform: capitalize;
+        font-size: 30px;
+    }
+    #testimonial {
+        background-image: url(../../assets/img/homepage/background-1tstimonial.jpg);
+        background-size: cover;
+        padding: 100px 0px 84px 0px;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:800px){
+    #acumatica {
+        margin-top: 40px;
+    }
+    #benifits {
+        background-image: url(../../assets/img/homepage/background-1a.jpg);
+        background-size: cover;
+        padding: 10px 0px 275px 0px;
+        background-repeat: round;
+    }
+    #testimonial {
+        background-image: url(../../assets/img/homepage/background-1tstimonial.jpg);
+        background-size: cover;
+        padding: 90px 0px 90px 0px;
+        background-repeat: round;
+    }
+}
+
+@media only screen and (min-width:801px) and (max-width:900px){
+
+}
+
+@media only screen and (min-width:901px) and (max-width:992px){
+
+}
+
+@media only screen and (min-width:993px) and (max-width:1024px){
+
+}
+
+@media only screen and (min-width:1025px) and (max-width: 1100px){
+
+}
+
+@media only screen and (min-width:1101px) and (max-width: 1190px){
+    
+}

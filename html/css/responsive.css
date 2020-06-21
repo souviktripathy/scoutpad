@@ -1,0 +1,261 @@
+@media only screen and (min-width:240px) and (max-width:320px){
+    .profile-usertitle {
+        text-align: center;
+        margin-top: 30px;
+    }
+    .owl-carousel .owl-item img {
+        display: block;
+        width: 100%;
+        margin-top: 90px;
+    }
+    .banner-text {
+        position: absolute;
+        left: 50%;
+        top: 75%;
+        transform: translate(-50%, -50%);
+    }
+    .banner-text h1 {
+        font-size: 36px;
+        line-height: 60px;
+        font-weight: 600;
+        color: white;
+    }
+    .content-heading {
+        border-left: 3px solid #01499e;
+        margin-top: 20px;
+    }
+    .one, .two, .three, .four {
+        position: absolute;
+        z-index: 1;
+        height: 18px;
+        width: 18px;
+        border-radius: 25px;
+        bottom: 200px;
+        border: 1px solid #01499e;
+    }
+    .content-body .alternate-div .image-text-section .button-section button{
+        margin-bottom: 10px;
+    }
+    .content-body .alternate-div .image-text-section .button-section button.btngreen {
+        background: #04b319;
+        color: white;
+        border: 1px solid white;
+        border-radius: 0px;
+        padding: 5px 12px;
+        font-size: 12px;
+        width: 100%;
+    }
+    .content-body .alternate-div .image-text-section .button-section button.btnorange {
+        background: #fe707a;
+        color: white;
+        border: 1px solid white;
+        border-radius: 0px;
+        padding: 5px 12px;
+        font-size: 12px;
+        width: 100%;
+    }
+    .content-body .alternate-div .image-text-section .button-section button.btnblue {
+        background: #0c77da;
+        color: white;
+        border: 1px solid white;
+        border-radius: 0px;
+        padding: 5px 12px;
+        font-size: 17px;
+        width: 100%;
+    }
+    .content-body .alternate-div .image-text-section .button-section button.btnyellow {
+        background: #fb9f00;
+        color: white;
+        border: 1px solid white;
+        border-radius: 0px;
+        padding: 5px 12px;
+        font-size: 12px;
+        width: 100%;
+    }
+    .content-body .alternate-div {
+        position: relative;
+        height: 440px;
+        top: 23px;
+    }
+    .content-body .single-box-section {
+        position: relative;
+        height: auto;
+    }
+}
+
+@media only screen and (min-width:321px) and (max-width:480px){
+    .profile-usertitle {
+        text-align: center;
+        margin-top: 60px;
+    }
+    .owl-carousel .owl-item img {
+        display: block;
+        width: 100%;
+        margin-top: 90px;
+    }
+    .banner-text {
+        position: absolute;
+        left: 50%;
+        top: 75%;
+        transform: translate(-50%, -50%);
+    }
+    .banner-text h1 {
+        font-size: 36px;
+        line-height: 60px;
+        font-weight: 600;
+        color: white;
+    }
+    .content-heading {
+        border-left: 3px solid #01499e;
+        margin-top: 20px;
+    }
+    .one, .two, .three, .four {
+        position: absolute;
+        z-index: 1;
+        height: 18px;
+        width: 18px;
+        border-radius: 25px;
+        bottom: 200px;
+        border: 1px solid #01499e;
+    }
+    .content-body .alternate-div .image-text-section .button-section button{
+        margin-bottom: 10px;
+    }
+    .content-body .alternate-div .image-text-section .button-section button.btngreen {
+        background: #04b319;
+        color: white;
+        border: 1px solid white;
+        border-radius: 0px;
+        padding: 5px 12px;
+        font-size: 12px;
+        width: 100%;
+    }
+    .content-body .alternate-div .image-text-section .button-section button.btnorange {
+        background: #fe707a;
+        color: white;
+        border: 1px solid white;
+        border-radius: 0px;
+        padding: 5px 12px;
+        font-size: 12px;
+        width: 100%;
+    }
+    .content-body .alternate-div .image-text-section .button-section button.btnblue {
+        background: #0c77da;
+        color: white;
+        border: 1px solid white;
+        border-radius: 0px;
+        padding: 5px 12px;
+        font-size: 17px;
+        width: 100%;
+    }
+    .content-body .alternate-div .image-text-section .button-section button.btnyellow {
+        background: #fb9f00;
+        color: white;
+        border: 1px solid white;
+        border-radius: 0px;
+        padding: 5px 12px;
+        font-size: 12px;
+        width: 100%;
+    }
+
+    .content-body .alternate-div {
+        position: relative;
+        height: 440px;
+        top: 23px;
+    }
+    .content-body .single-box-section {
+        position: relative;
+        height: auto;
+    }
+}
+
+@media only screen and (min-width:481px) and (max-width:600px){
+
+}
+
+@media only screen and (min-width:601px) and (max-width:700px){
+
+}
+
+@media only screen and (min-width:701px) and (max-width:767px){
+
+}
+
+@media only screen and (min-width:768px) and (max-width:800px){
+    .profile-sidebar {
+        padding: 40px 0 30px 0;
+        background: #7bb5fa;
+        background-image: linear-gradient(#7bb5fa, #dff4fe);
+        margin-top: 50px;
+        border-right: 3px solid #197df5;
+    }
+    .col-md-6.userprofileloginsection{
+        max-width: 100%; 
+        flex: 0 0 100%;
+    }
+    .banner-text {
+        position: absolute;
+        left: 50%;
+        top: 70%;
+        transform: translate(-50%, -50%);
+    }
+    .banner-text h1 {
+        font-size: 45px;
+        line-height: 60px;
+        font-weight: 600;
+        color: white;
+    }
+    .owl-carousel .owl-item img {
+        display: block;
+        width: 100%;
+        margin-top: 87px;
+    }
+    .profile-usermenu ul li {
+        border-bottom: 1px solid #ffffff;
+        padding: 10px 0px;
+        text-align: right;
+    }
+
+    .single-dashboardbox-section .single-box-header h5 {
+        background: #01499e;
+        text-align: center;
+        padding: 6px;
+        color: white;
+        font-size: 14px;
+    }
+    .one, .two, .three, .four {
+        position: absolute;
+        z-index: 1;
+        height: 18px;
+        width: 18px;
+        border-radius: 25px;
+        bottom: 95px;
+        border: 1px solid #01499e;
+    }
+    .content-body .alternate-div {
+        height: 100px;
+        z-index: 999;
+        position: absolute;
+        top: 170px;
+    }
+}
+
+@media only screen and (min-width:801px) and (max-width:900px){
+
+}
+
+@media only screen and (min-width:901px) and (max-width:992px){
+
+}
+
+@media only screen and (min-width:993px) and (max-width:1024px){
+
+}
+
+@media only screen and (min-width:1025px) and (max-width: 1100px){
+
+}
+
+@media only screen and (min-width:1101px) and (max-width: 1190px){
+    
+}
